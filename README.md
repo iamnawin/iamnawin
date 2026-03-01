@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI-powered Salesforce automations, Structra-AI, and experimental projects under AIwithNoBrain.<br><br>👯 I’m looking to collaborate on<br>Salesforce integrations, AI agents, and automation-heavy SaaS products.<br><br>🤝 I’m looking for help with<br>Product growth, lead generation, and scaling AI tools globally.<br><br>🌱 I’m currently learning<br>Advanced AI orchestration, RevOps concepts, and high-performance system design.<br><br>💬 Ask me about<br>Salesforce Service Cloud, FSL, Flows, Apex basics, and AI workflow automation.<br><br>⚡ Fun fact<br>I switch between enterprise CRM work and cinematic AI storytelling.
+AI-powered Salesforce automations, Structra-AI, and experimental projects under AIwithNoBrain.<br><br>👯 I’m looking to collaborate on<br>Salesforce integrations, AI agents, and automation-heavy SaaS products.<br><br>🤝 I’m looking for help with<br>Product growth, lead generation, and scaling AI tools globally.<br><br>🌱 I’m currently learning<br>Advanced AI orchestration, RevOps concepts, SaaS buidling and high-performance system design.<br><br>💬 Ask me about<br>Salesforce Service Cloud, FSL, Flows, Apex basics, and AI workflow automation.<br><br>⚡ Fun fact<br>I switch between enterprise CRM work and cinematic AI storytelling.
 
 
 # 💻 Tech Stack:
